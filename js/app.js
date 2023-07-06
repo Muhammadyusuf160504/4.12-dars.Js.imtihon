@@ -294,14 +294,14 @@ noldan(-2) ᔍ true
 
 // JAVOBI
 
-// function noldan(raqam) {
-//     if (raqam <= 0) {
-//         alert(true);
-//     } else {
-//         alert(false);
-//     }
-// }
-// noldan(prompt("Sonni kiriting"))
+function noldan(raqam) {
+    if (raqam <= 0) {
+        alert(true);
+    } else {
+        alert(false);
+    }
+}
+noldan(prompt("Sonni kiriting"))
 
 
 /*
@@ -377,9 +377,9 @@ Namuna(95) ᔍ false
 
 // JAVOBI
 
-function oxiri() {
+// function oxiri() {
 
-}
+// }
 
 /*
 104.Funksiya massiv qabul qiladi. Funksiya massivning elementlariga o’sha elementning indexini qo’shgan holda yangi
