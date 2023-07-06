@@ -426,7 +426,16 @@ Namuna(56) ᔍ 2
 Namuna(7154) ᔍ 4
 Namuna(61217311514) ᔍ 11
 Namuna(0) ᔍ 1
-107.Funksiya son qabu qilsa, ushbu funksiya sonning raqamlari
+*/
+
+// function sonlar(son) {
+//     let a = indexOf(son)
+//     console.log(a);
+// }
+// sonlar(123)
+
+/*
+107.Funksiya son qabul qilsa, ushbu funksiya sonning raqamlari
 o’rni istalgancha almashtirib eng katta hosil bo’lishi mumkin
 bo’lgan sonni qaytarsin.
 Namuna:
