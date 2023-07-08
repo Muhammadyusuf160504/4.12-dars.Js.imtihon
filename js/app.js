@@ -294,14 +294,14 @@ noldan(-2) ᔍ true
 
 // JAVOBI
 
-function noldan(raqam) {
-    if (raqam <= 0) {
-        alert(true);
-    } else {
-        alert(false);
-    }
-}
-noldan(prompt("Sonni kiriting"))
+// function noldan(raqam) {
+//     if (raqam <= 0) {
+//         alert(true);
+//     } else {
+//         alert(false);
+//     }
+// }
+// noldan(prompt("Sonni kiriting"))
 
 
 /*
