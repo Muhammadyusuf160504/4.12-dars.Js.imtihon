@@ -275,7 +275,7 @@ kvadrat(100) ᔍ 10000
 // JAVOBI
 
 // function kvadrat(son) {
-//     let sonKvadrat = son^2
+//     let sonKvadrat = son * son
 //     console.log(sonKvadrat);
 // }
 // kvadrat(5)
