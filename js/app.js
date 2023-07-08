@@ -136,7 +136,7 @@ firstElement([-500, 0, 50]) ᔍ -500
 //     let a = arr
 //     console.log(a[0]);
 // }
-// firstElement([[1, 2, 3]])
+// firstElement([1, 2, 3])
 
 /*
 8.Funksiya 2ta argument qabul qilsin. Ushbu funksiya birinchi
